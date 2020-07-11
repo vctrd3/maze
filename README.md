@@ -1,7 +1,5 @@
 # maze
-Maze game
-
-Built with Matter.js
+Maze game built using Matter.js 
 
 Keys to play
 Up: w
